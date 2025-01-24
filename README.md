@@ -1,7 +1,7 @@
 # Otel Rezervasyon Sistemi
 
 ### Youtube Videosu Linki
-[Youtube Video Linki]()
+[Youtube Video Linki](https://youtu.be/pcE-r52M3Jo?si=ZeOhvnAJVoOSnHgz)
 
 ### Ekran Görüntüleri
 ![Ekran görüntüsü 2025-01-24 083341](https://github.com/user-attachments/assets/e78dda49-9481-4a41-a5c8-795157e18686)
