@@ -1,0 +1,991 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|c:\\users\\user\\onedrive\\desktop\\yaz\u0131l\u0131m\\csharp\\1_finalodevotelotomasyonu\\1_finalodevotelotomasyonu\\dal\\personeldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\dal\\personeldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\dal\\musterilerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\dal\\musterilerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\domain\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\domain\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\service\\odalarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\service\\odalarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\dal\\odalardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\dal\\odalardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\domain\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\domain\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\service\\personelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\service\\personelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\service\\yoneticiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\service\\yoneticiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\service\\musterilerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\service\\musterilerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\domain\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\domain\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\dal\\yoneticidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\dal\\yoneticidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DAL\\dbBaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalOdevOtelOtomasyonu\\DAL\\dbBaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\domain\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\domain\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\ayarlaryonetici\u0130\u015Flemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\ayarlaryonetici\u0130\u015Flemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\ayarlaryonetici\u0130\u015Flemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\ayarlaryonetici\u0130\u015Flemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\otelpersonelleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\otelpersonelleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\personelbilgilerisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\personelbilgilerisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\yoneticibilgisiguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\yoneticibilgisiguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\yoneticibilgilerinisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\yoneticibilgilerinisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\yenim\u00FC\u015Fteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\yenim\u00FC\u015Fteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\yenim\u00FC\u015Fteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\yenim\u00FC\u015Fteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\musteribilgilerisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\musteribilgilerisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\musteribilgilerisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\musteribilgilerisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\gelirgiderler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\gelirgiderler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\musterilerigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\musterilerigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\musterilerigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\musterilerigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\gelirler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\gelirler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\odabilgileriguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\odabilgileriguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\personel giri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\personel giri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\personelbilgilerinigumcelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\personelbilgilerinigumcelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\personelbilgilerinigumcelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\personelbilgilerinigumcelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\odadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\odadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\duyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\duyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\duyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\duyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\rezervasyonsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\rezervasyonsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\gelirler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\gelirler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\rezervasyonsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\rezervasyonsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalOdevOtelOtomasyonu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\sifreyenile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\sifreyenile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\sifreyenile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\sifreyenile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\rezervasyon\u0130ptal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\rezervasyon\u0130ptal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\gelirgiderler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\gelirgiderler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\personelbilgilerisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\personelbilgilerisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\odadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\odadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\yoneticibilgisiguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\yoneticibilgisiguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\odabilgileriguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\odabilgileriguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\personeltablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\personeltablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\personeltablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\personeltablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\rezervasyon\u0130ptal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\rezervasyon\u0130ptal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\personel giri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\personel giri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\personel giri\u015F.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\personel giri\u015F.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\otelpersonelleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\otelpersonelleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\yoneticibilgilerinisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\yoneticibilgilerinisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\odalar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\odalar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalodevotelotomasyonu\\rezervasyonsayfasi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C8B65-13A6-439F-A877-9D94D275F8E5}|1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu.csproj|solutionrelative:1_finalodevotelotomasyonu\\rezervasyonsayfasi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 175,
+          "SelectedChildIndex": 40,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "musterileriGoruntule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\musterileriGoruntule.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\musterileriGoruntule.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\musterileriGoruntule.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\musterileriGoruntule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:04:48.144Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "rezervasyonSayfasi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\rezervasyonSayfasi.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\rezervasyonSayfasi.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\rezervasyonSayfasi.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\rezervasyonSayfasi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:02:23.78Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "rezervasyonSayfasi.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\rezervasyonSayfasi.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\rezervasyonSayfasi.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\rezervasyonSayfasi.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\rezervasyonSayfasi.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAE0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:35:09.31Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "anaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\anaForm.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\anaForm.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\anaForm.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\anaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:36:51.777Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "otelPersonelleri.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\otelPersonelleri.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\otelPersonelleri.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\otelPersonelleri.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\otelPersonelleri.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:23:56.065Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "otelPersonelleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\otelPersonelleri.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\otelPersonelleri.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\otelPersonelleri.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\otelPersonelleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:57:42.33Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "YeniM\u00FC\u015FteriEkle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\YeniM\u00FC\u015FteriEkle.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\YeniM\u00FC\u015FteriEkle.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\YeniM\u00FC\u015FteriEkle.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\YeniM\u00FC\u015FteriEkle.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAAJ4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T15:35:40.91Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "musteriBilgileriSil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\musteriBilgileriSil.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\musteriBilgileriSil.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\musteriBilgileriSil.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\musteriBilgileriSil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:10:47.72Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "musteriBilgileriSil.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\musteriBilgileriSil.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\musteriBilgileriSil.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\musteriBilgileriSil.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\musteriBilgileriSil.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAAAAABAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:15:52.025Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "personelTablosu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\personelTablosu.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\personelTablosu.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\personelTablosu.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\personelTablosu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:50:59.007Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "personelBilgileriniGumcelle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\personelBilgileriniGumcelle.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\personelBilgileriniGumcelle.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\personelBilgileriniGumcelle.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\personelBilgileriniGumcelle.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAmwOcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:01:59.927Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "musterileriGoruntule.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\musterileriGoruntule.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\musterileriGoruntule.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\musterileriGoruntule.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\musterileriGoruntule.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAAAA4BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:10:53.56Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "personelBilgileriSil.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\personelBilgileriSil.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\personelBilgileriSil.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\personelBilgileriSil.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\personelBilgileriSil.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwBkAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:22:21.599Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "duyurular.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\duyurular.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\duyurular.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\duyurular.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\duyurular.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAIAwwMIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:20:13.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "duyurular.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\duyurular.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\duyurular.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\duyurular.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\duyurular.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:16:19.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Gelirler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\Gelirler.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\Gelirler.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\Gelirler.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\Gelirler.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAAMgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:51:25.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Gelirler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\Gelirler.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\Gelirler.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\Gelirler.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\Gelirler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:38:30.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "gelirGiderler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\gelirGiderler.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\gelirGiderler.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\gelirGiderler.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\gelirGiderler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:37:56.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "gelirGiderler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\gelirGiderler.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\gelirGiderler.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\gelirGiderler.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\gelirGiderler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:33:07.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "odaBilgileriGuncelle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odaBilgileriGuncelle.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\odaBilgileriGuncelle.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odaBilgileriGuncelle.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\odaBilgileriGuncelle.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:11:58.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "odaBilgileriGuncelle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odaBilgileriGuncelle.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\odaBilgileriGuncelle.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odaBilgileriGuncelle.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\odaBilgileriGuncelle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:07:13.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "rezervasyon\u0130ptal.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\rezervasyon\u0130ptal.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\rezervasyon\u0130ptal.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\rezervasyon\u0130ptal.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\rezervasyon\u0130ptal.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:42:35.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "odaDurumu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odaDurumu.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\odaDurumu.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odaDurumu.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\odaDurumu.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:41:35.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "odaDurumu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odaDurumu.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\odaDurumu.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odaDurumu.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\odaDurumu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:36:02.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "rezervasyon\u0130ptal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\rezervasyon\u0130ptal.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\rezervasyon\u0130ptal.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\rezervasyon\u0130ptal.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\rezervasyon\u0130ptal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:24:04.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Personel Giri\u015F.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\Personel Giri\u015F.Designer.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\Personel Giri\u015F.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\Personel Giri\u015F.Designer.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\Personel Giri\u015F.Designer.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAAJUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:23:31.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "yoneticiBilgileriniSil.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\yoneticiBilgileriniSil.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\yoneticiBilgileriniSil.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\yoneticiBilgileriniSil.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\yoneticiBilgileriniSil.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAGcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T22:19:42.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "yoneticiBilgileriniSil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\yoneticiBilgileriniSil.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\yoneticiBilgileriniSil.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\yoneticiBilgileriniSil.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\yoneticiBilgileriniSil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T22:18:36.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "yoneticiBilgisiGuncelle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\yoneticiBilgisiGuncelle.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\yoneticiBilgisiGuncelle.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\yoneticiBilgisiGuncelle.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\yoneticiBilgisiGuncelle.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAIAwwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T22:14:58.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "yoneticiBilgisiGuncelle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\yoneticiBilgisiGuncelle.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\yoneticiBilgisiGuncelle.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\yoneticiBilgisiGuncelle.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\yoneticiBilgisiGuncelle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T22:05:06.97Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ayarlarYonetici\u0130\u015Flemleri.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\ayarlarYonetici\u0130\u015Flemleri.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\ayarlarYonetici\u0130\u015Flemleri.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\ayarlarYonetici\u0130\u015Flemleri.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\ayarlarYonetici\u0130\u015Flemleri.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAUwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:30:42.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ayarlarYonetici\u0130\u015Flemleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\ayarlarYonetici\u0130\u015Flemleri.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\ayarlarYonetici\u0130\u015Flemleri.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\ayarlarYonetici\u0130\u015Flemleri.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\ayarlarYonetici\u0130\u015Flemleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:30:16.93Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YoneticiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\SERVICE\\YoneticiService.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\SERVICE\\YoneticiService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\SERVICE\\YoneticiService.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\SERVICE\\YoneticiService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:11:24.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "YoneticiDAO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DAL\\YoneticiDAO.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\DAL\\YoneticiDAO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DAL\\YoneticiDAO.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\DAL\\YoneticiDAO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:07:24.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "yonetici.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DOMAIN\\yonetici.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\DOMAIN\\yonetici.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DOMAIN\\yonetici.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\DOMAIN\\yonetici.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:00:58.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusterilerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DAL\\MusterilerDAO.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\DAL\\MusterilerDAO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DAL\\MusterilerDAO.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\DAL\\MusterilerDAO.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:09:54.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "odalar.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DOMAIN\\odalar.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\DOMAIN\\odalar.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DOMAIN\\odalar.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\DOMAIN\\odalar.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:12:45.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonelDAO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DAL\\PersonelDAO.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\DAL\\PersonelDAO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DAL\\PersonelDAO.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\DAL\\PersonelDAO.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwCMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:59:07.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "personelBilgileriniGumcelle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\personelBilgileriniGumcelle.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\personelBilgileriniGumcelle.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\personelBilgileriniGumcelle.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\personelBilgileriniGumcelle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:57:57.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "YeniM\u00FC\u015FteriEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\YeniM\u00FC\u015FteriEkle.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\YeniM\u00FC\u015FteriEkle.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\YeniM\u00FC\u015FteriEkle.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\YeniM\u00FC\u015FteriEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T15:31:44.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "sifreYenile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\sifreYenile.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\sifreYenile.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\sifreYenile.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\sifreYenile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:50:26.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "personelBilgileriSil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\personelBilgileriSil.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\personelBilgileriSil.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\personelBilgileriSil.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\personelBilgileriSil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:18:29.989Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MusterilerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\SERVICE\\MusterilerService.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\SERVICE\\MusterilerService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\SERVICE\\MusterilerService.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\SERVICE\\MusterilerService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:51:50.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "musteriler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DOMAIN\\musteriler.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\DOMAIN\\musteriler.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DOMAIN\\musteriler.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\DOMAIN\\musteriler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:38:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "odalar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odalar.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\odalar.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odalar.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\odalar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:58:58.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "personel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DOMAIN\\personel.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\DOMAIN\\personel.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DOMAIN\\personel.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\DOMAIN\\personel.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwv2oAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:59:44.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonelService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\SERVICE\\PersonelService.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\SERVICE\\PersonelService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\SERVICE\\PersonelService.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\SERVICE\\PersonelService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxwAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:00:12.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "odalar.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odalar.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\odalar.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odalar.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\odalar.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAMwHwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:31:33.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OdalarDAO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DAL\\OdalarDAO.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\DAL\\OdalarDAO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DAL\\OdalarDAO.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\DAL\\OdalarDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:12:02.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OdalarService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\SERVICE\\OdalarService.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\SERVICE\\OdalarService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\SERVICE\\OdalarService.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\SERVICE\\OdalarService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:13:10.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "odalar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odalar.Designer.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\odalar.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\odalar.Designer.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\odalar.Designer.cs",
+              "ViewState": "AgIAADQEAAAAAAAAAAAYwEsEAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:03:45.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "rezervasyonSayfasi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\rezervasyonSayfasi.Designer.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\rezervasyonSayfasi.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\rezervasyonSayfasi.Designer.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\rezervasyonSayfasi.Designer.cs",
+              "ViewState": "AgIAAFgGAAAAAAAAAAAiwGUGAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:47:17.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbBaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DAL\\dbBaglanti.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\DAL\\dbBaglanti.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\DAL\\dbBaglanti.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\DAL\\dbBaglanti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:10:27.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "anaForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\anaForm.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\anaForm.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\anaForm.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\anaForm.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAE4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:37:49.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Personel Giri\u015F.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\Personel Giri\u015F.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\Personel Giri\u015F.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\Personel Giri\u015F.cs [Design]",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\Personel Giri\u015F.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:22:24.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "personelTablosu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\personelTablosu.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\personelTablosu.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\personelTablosu.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\personelTablosu.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowC0AAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:55:35.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\Program.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\Program.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAArwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:31:12.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "sifreYenile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\sifreYenile.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\sifreYenile.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\sifreYenile.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\sifreYenile.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:58:03.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Personel Giri\u015F.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\Personel Giri\u015F.cs",
+              "RelativeDocumentMoniker": "1_finalOdevOtelOtomasyonu\\Personel Giri\u015F.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\yaz\u0131l\u0131m\\CSharp\\1_finalOdevOtelOtomasyonu\\1_finalOdevOtelOtomasyonu\\Personel Giri\u015F.cs",
+              "RelativeToolTip": "1_finalOdevOtelOtomasyonu\\Personel Giri\u015F.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:21:52.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
