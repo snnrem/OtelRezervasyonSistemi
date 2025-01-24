@@ -5,7 +5,8 @@
 
 ### Ekran Görüntüleri
 ![Ekran görüntüsü 2025-01-24 083341](https://github.com/user-attachments/assets/e78dda49-9481-4a41-a5c8-795157e18686)
-######  Yönetici Giriş Ekranım 
+######  Yönetici Giriş Ekranı
+
 ![Ekran görüntüsü 2025-01-24 083359](https://github.com/user-attachments/assets/d86f574e-a231-40ba-a286-ddec69bf4232)
 ![Ekran görüntüsü 2025-01-24 083414](https://github.com/user-attachments/assets/799f4e88-eef3-4c87-ab74-0007d0513d8b)
 ![Ekran görüntüsü 2025-01-24 083422](https://github.com/user-attachments/assets/c95187b2-2f1a-4a20-9c54-c1214b160075)
