@@ -1,5 +1,9 @@
 # Otel Rezervasyon Sistemi
+
+##### Youtube Videosu Linki
 [Youtube Video Linki]()
+
+##### Ekran Görüntüleri
 ![Ekran görüntüsü 2025-01-24 083341](https://github.com/user-attachments/assets/e78dda49-9481-4a41-a5c8-795157e18686)
 ![Ekran görüntüsü 2025-01-24 083359](https://github.com/user-attachments/assets/d86f574e-a231-40ba-a286-ddec69bf4232)
 ![Ekran görüntüsü 2025-01-24 083414](https://github.com/user-attachments/assets/799f4e88-eef3-4c87-ab74-0007d0513d8b)
@@ -17,5 +21,19 @@
 ![Ekran görüntüsü 2025-01-24 092013](https://github.com/user-attachments/assets/4c58abeb-c5f0-4ec5-af5f-0c2034a62d02)
 ![Ekran görüntüsü 2025-01-24 092019](https://github.com/user-attachments/assets/a0742f4b-883e-4414-aa23-f86c67ae6e39)
 ![Ekran görüntüsü 2025-01-24 092028](https://github.com/user-attachments/assets/86e80331-861f-4a96-be2d-740ff0bdc602)
+
+
+##### UML Diyagramları
+
+###### Class Diyagramı
+![Ekran görüntüsü 2025-01-24 093635](https://github.com/user-attachments/assets/db72cf25-a862-4bf9-9572-e3cd4fe8c29b)
+
+
+###### ER Diyagramı
+![Ekran görüntüsü 2025-01-24 093718](https://github.com/user-attachments/assets/3b49e414-1e1f-4ea8-a651-00957410db7d)
+
+
+###### USE CASE Diyagramı
+![Ekran görüntüsü 2025-01-24 093751](https://github.com/user-attachments/assets/2ec8d124-8427-4e9b-a738-10c3f828ec06)
 
 
